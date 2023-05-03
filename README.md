@@ -11,10 +11,11 @@ burn SPI flash via UART
 使用时候注意修改一下时钟
 参数ClkFrequency 定义为你的板子上的时钟频率。
 
-参数Baud 我们使用的是115200*8 (即921600)，如果要修改，请对照ser.c同时修改。
+参数Baud 我们使用的是115200*8 (即921600)，如果要修改，请对照com.c同时修改。
 
 
-
+com.c我使用dev_cpp编译运行。
+HDL代码我使用ISE编译在SPARTAN 6板子上运行OK。纯粹的RTL代码，不会挑FPGA型号和开发环境的。
 
 
 
