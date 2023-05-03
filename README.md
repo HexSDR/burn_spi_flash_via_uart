@@ -4,7 +4,8 @@ burn SPI flash via UART
 这里提供了一个通过串口烧写SPI FLASH的方案，包含HDL(全部使用状态机)和WINDOWS系统上运行的C语言。
 
 
-其中串口通讯部分的C和HDL是来自 www.fpga4fun.com.其他代码本人纯手工打造。
+其中串口通讯部分的C和HDL是来自 www.fpga4fun.com
+其他代码本人纯手工打造。
 尤其是有限状态机FSM的使用，基本体现了本人使用使用FSM串行处理的风格。
 
 
