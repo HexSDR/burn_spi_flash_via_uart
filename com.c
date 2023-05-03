@@ -1,7 +1,6 @@
 ////////////////////////////////////////////////////////
 // RS-232 example
 // Compiles with Microsoft Visual C++ 5.0/6.0
-// verion 42390034371
 // (c) fpga4fun.com KNJN LLC - 2003, 2004, 2005, 2006
 
 #include <windows.h>
