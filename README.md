@@ -17,7 +17,10 @@ burn SPI flash via UART
 
 com.c我使用dev_cpp编译运行。
 HDL代码我使用ISE编译在SPARTAN 6板子上运行OK。纯粹的RTL代码，不会挑FPGA型号和开发环境的。
+使用W25Q64进行读写测试通过。
 
+
+这些代码除了直接使用于具体项目，可以作为初学者研究学习使用状态机编程的例子非常不错。
 
 
 
